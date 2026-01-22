@@ -1,5 +1,11 @@
 # Mina
 
+## 메인 사이트
+
+WEB : https://minaplay.netlify.app/ <br>
+
+---
+
 ## List
 
 ### 색 조합 
